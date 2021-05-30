@@ -30,6 +30,7 @@ namespace WpfApp1
             MessageBox.Show("Hello");
             MessageBox.Show("Hello1");
             MessageBox.Show("Hello21");
+            MessageBox.Show("Hello_after_clone");
         }
     }
 }
